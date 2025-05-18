@@ -1,0 +1,12 @@
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  min-height: 120px;
+  padding: 40px;
+  background-color: bisque;
+}
+
+.title {
+  width: fit-content;
+}

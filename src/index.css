@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+#root {
+  padding: 0 !important;
+  max-width: 100% !important;
+  margin: 0 !important;
+  text-align: center !important;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+}
+
+button,
+input {
+  display: block;
+}
